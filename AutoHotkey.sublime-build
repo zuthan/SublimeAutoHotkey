@@ -1,0 +1,6 @@
+{
+   "cmd": ["/AutoHotkey/App/AutoHotkey.exe", "/ErrorStdOut", "$file"],
+   "file_regex": "^[ ]*File \"(...*?)\",\nline ([0-9]*)",
+   "selector": "source.ahk",
+   "working_dir": "$file_path"
+}

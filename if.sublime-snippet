@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+If ($1=$2)
+{
+	$3
+}
+]]></content>
+<tabTrigger>if</tabTrigger>
+<description>If (...=...){...}</description>
+<scope>source.ahk</scope>
+</snippet>

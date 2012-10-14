@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>name</key>
+  <string>Symbol List</string>
+  <key>scope</key>
+  <string>source.ahk symbols.ahk</string>
+  <key>settings</key>
+  <dict>
+    <key>showInSymbolList</key>
+    <integer>1</integer>
+    <key>symbolTransformation</key>
+    <string>s/^(\w+?)\(/$1/</string>
+  </dict>
+  <key>uuid</key>
+  <string>CC87B3CE-BC59-4646-A1D0-BB5944BF4D25</string>
+</dict>
+</plist>
